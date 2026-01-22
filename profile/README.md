@@ -2,7 +2,7 @@
 
 ## Proprietary License
 
-Copyright (c) 2025 Cover My Assets
+Copyright (c) 2026 Cover My Assets
 
 This source code is proprietary and confidential. Unauthorized use, copying, reproduction, distribution, modification, merging, publishing, sublicensing, or selling any portion of this code is strictly prohibited.
 
